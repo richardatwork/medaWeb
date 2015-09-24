@@ -1,1 +1,6 @@
 This is the home page. I wonder what I can do with it?
+That's interesting. Can I suggest the following?
+html, body {
+font-family: 'Raleway', Arial, Helvetica, sans-serif;
+height: 100%;
+background-color: #fff;
